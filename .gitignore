@@ -1,0 +1,24 @@
+/*************  ✨ Codeium Command ⭐  *************/
+# Ignore python environment
+venv/
+.env
+
+# Ignore data
+data/*.csv
+data/*.json
+data/*.pkl
+
+# Ignore model
+model/*.pkl
+
+# Ignore results
+results/*.csv
+results/*.json
+results/*.pkl
+
+# Ignore logs
+logs/*.log
+
+# Ignore jupyter notebooks checkpoint
+.ipynb_checkpoints/
+/******  39a1b6df-c30a-4575-9e19-7b21aad1ffee  *******/
