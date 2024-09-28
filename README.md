@@ -5,7 +5,7 @@ This repository contains the project work of Group-6 of the M2 year of Data Scie
 
 
 ## Project Description
-The project focuses on exploring algorithmic fairness and interpretability in machine learning models. A detailed problem statement for the project can be found in [Interpretability and Fairness DSB Project Fall 2024.pdf](./Interpretability_and_Fairness_DSB_Project_Fall_2024.pdf).
+The project focuses on exploring algorithmic fairness and interpretability in machine learning models. A detailed problem statement for the project can be found in [Interpretability and Fairness DSB Project Fall 2024](./Interpretability_and_Fairness_DSB_Project_Fall_2024.pdf).
 
 ## Installation
 To get started with the project, clone the repository and install the required dependencies:
