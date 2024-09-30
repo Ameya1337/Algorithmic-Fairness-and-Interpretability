@@ -10,7 +10,7 @@ The project focuses on exploring algorithmic fairness and interpretability in ma
 ## Installation
 To get started with the project, clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/your-repo/Algorithmic-Fairness-and-Interpretability.git
+git clone https://github.com/Ameya1337/Algorithmic-Fairness-and-Interpretability.git
 cd Algorithmic-Fairness-and-Interpretability
 pip install -r requirements.txt
 ```
